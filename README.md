@@ -38,6 +38,17 @@
 
 ### 6) Group the orders by date and calculate the average number of pizzas ordered per day
 ![Screenshot (215)](https://github.com/Sharayuk08/MySQL-Data-Analysis-for-Pizza-Sales/assets/161645228/5ccb9de2-3ae6-4f1e-98e5-5451094dd015)
+#
+
+### 7) Calculate the percentage contribution of each pizza type to total revenue
+![Screenshot (217)](https://github.com/Sharayuk08/MySQL-Data-Analysis-for-Pizza-Sales/assets/161645228/485385ec-6a7f-4b7a-b0d1-15fa4a8895c2)
+#
+### 8) Print the cumulative revenue generated over time
+![Screenshot (218)](https://github.com/Sharayuk08/MySQL-Data-Analysis-for-Pizza-Sales/assets/161645228/b8d23764-0bfb-4f63-ae1d-7951907d3085)
+#
+### 9) Determine the top 3 most ordered pizza types based on revenue for each pizza category
+![Screenshot (219)](https://github.com/Sharayuk08/MySQL-Data-Analysis-for-Pizza-Sales/assets/161645228/f4ce612d-8ab5-4a83-8647-6160f510094c)
+
 
 
 
